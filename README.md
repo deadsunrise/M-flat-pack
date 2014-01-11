@@ -7,7 +7,7 @@ Based on the pack by reddit user enzo_gt: http://www.reddit.com/r/iOSthemes/comm
 
 
 
-## Installl on iphone
+## Install on iphone
 
 You need Ifile + winterboard
 
