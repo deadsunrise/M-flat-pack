@@ -7,6 +7,20 @@ Based on the pack by reddit user enzo_gt: http://www.reddit.com/r/iOSthemes/comm
 
 
 
+## Installl on iphone
+
+You need Ifile + winterboard
+
+  - In mobile safari go to http://goo.gl/n7qdEP  
+  - Open in > Ifile > Unarchiver
+  - Edit > Select "M'flat iOs 7.theme" (black dot) 
+  - Click board icon (bottom right)  >  Copy
+  - Go back and browse to /private/var/stash/Themes.XXXXX
+  - Edit > board button > Paste
+
+Go into winterboard, select the theme and respring.
+
+
 --
 
 ![M'flat example](http://i.imgur.com/j2CLZLZ.jpg "M'flat example")
